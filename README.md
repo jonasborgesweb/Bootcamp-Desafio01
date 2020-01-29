@@ -1,4 +1,4 @@
-# Desafio01 - Bootcamp GoStack 10
+# Desafio 01 - Bootcamp GoStack 10
 
 <h1 align="center">
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
@@ -65,6 +65,9 @@ yarn dev
 
 ### Autor
 Jonas Borges - Desenvolvedor Front End
+Redes Sociais:
+- [Linkedin](https://www.linkedin.com/in/jonasborgesweb/)
+- [Instagram](https://www.instagram.com/jonasborgesweb/)
 
 ### Agradecimentos
 Gostaria de agradecer a [Rocketseat](https://rocketseat.com.br/) por proporcionar essa experiência íncrivel aos aluno e também todas as pessoas que me apoiam nessa jornada de inicio de carreira, especialmente a toda minha familia e meus amigos que sempre estão me apoiando.
